@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="about-section">
+  <h1>About Us Page</h1>
+  <p>Tempat Belajar Kursus Bahasa Asing Mudah Dan Cepat</p>
+  <p>Lembaga Les Bahasa Asing (LLBA)</p>
+</div>
+
+<h2 style="text-align:center">GROUP B46</h2>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="ba.jpg" alt="aniiyolah1" style="width:100%">
+      <div class="container">
+        <h2>Ani Darmawikarta</h2>
+        <p class="title">Head Of Agency</p>
+        <p>Mari Belajar Beraneka Ragam Bahasa Di Dunia.</p>
+        <p>aniiyolah1@gmail.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="ba.jpg" alt="arisaput2" style="width:100%">
+      <div class="container">
+        <h2>Ari Saputra</h2>
+        <p class="title">Teacher</p>
+        <p>Mari Belajar Beraneka Ragam Bahasa Di Dunia.</p>
+        <p>arisaput2@gmail.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="ba.jpg" alt="Astita3" style="width:100%">
+      <div class="container">
+        <h2>Astita</h2>
+        <p class="title">Teacher</p>
+        <p>Mari Belajar Beraneka Ragam Bahasa Di Dunia.</p>
+        <p>Astita3@gmail.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="ba.jpg" alt="bambangkurniyawan24" style="width:100%">
+      <div class="container">
+        <h2>Bambang Kurniyawan</h2>
+        <p class="title">Teacher</p>
+        <p>Mari Belajar Beraneka Ragam Bahasa Di Dunia.</p>
+        <p>bambangkurniyawan24@gmail.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="ba.jpg" alt="yudabae4" style="width:100%">
+      <div class="container">
+        <h2>Yuda</h2>
+        <p class="title">Teacher</p>
+        <p>Mari Belajar Beraneka Ragam Bahasa Di Dunia.</p>
+        <p>yudabae4@gmail.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
